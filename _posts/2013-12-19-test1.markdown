@@ -4,7 +4,7 @@ title: "test1"
 author: Zee
 categories: journal
 day: 19
-month: Dec.
+month: DEC
 year: 2013
 ---
 
