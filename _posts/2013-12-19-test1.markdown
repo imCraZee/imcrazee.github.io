@@ -3,8 +3,8 @@ layout: blogs_item
 title: "test1"
 author: Zee
 categories: journal
-day: 19
-month: 12
+day: 19th
+month: Dec.
 year: 2013
 ---
 
@@ -14,4 +14,4 @@ this is  just a fxxking test!
 <!--more--> 
 
 you cant see me, cant ya?
-okay, bye-bye!
+okay, bye-bye! Have a nice day.
