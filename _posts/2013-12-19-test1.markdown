@@ -9,10 +9,10 @@ year: 2013
 ---
 
 
-this is  just a fxxking test!
+this is just a fxxking test!
 
 <!--more--> 
 
-you cant see me, cant ya?
+ya cant see me, can ya?
 
 okay, bye-bye! Have a nice day.
